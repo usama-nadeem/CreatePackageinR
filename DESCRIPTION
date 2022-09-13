@@ -1,0 +1,12 @@
+Package: lab3
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2022-09-12
+Authors@R: c(
+ person("Muhammad Umair", email = "hadley@rstudio.com", role = "ctb"),
+ person("Usama Nadeem", email = "winston@rstudio.com", role = "ctb"))
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+import: testthat
