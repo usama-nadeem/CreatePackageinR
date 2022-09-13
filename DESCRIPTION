@@ -3,9 +3,6 @@ Type: Package
 Title: Practice for making packages in R
 Version: 1.0
 Date: 2022-09-12
-Authors@R: c(
- person("Muhammad Umair", email = "umair.raja.17697@gmail.com", role = "ctb"),
- person("Usama Nadeem", email = "usamanadeem321@gmail.com", role = "aut"))
 Maintainer: Usama Nadeem <usamanadeem321@gmail.com>
 Description: This package has two functions: finding euclidean distance and Djikstra's algo implementation
 License: NA
