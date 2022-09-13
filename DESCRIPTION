@@ -1,4 +1,4 @@
-Package: CreatePackageinR
+Package: lab3
 Type: Package
 Title: Practice for making packages in R
 Version: 1.0
