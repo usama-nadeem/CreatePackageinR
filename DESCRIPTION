@@ -1,12 +1,12 @@
-Package: lab3
+Package: CreatePackageinR
 Type: Package
-Title: What the package does (short line)
+Title: Practice for making packages in R
 Version: 1.0
 Date: 2022-09-12
 Authors@R: c(
- person("Muhammad Umair", email = "hadley@rstudio.com", role = "ctb"),
- person("Usama Nadeem", email = "winston@rstudio.com", role = "ctb"))
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+ person("Muhammad Umair", email = "umair.raja.17697@gmail.com", role = "ctb"),
+ person("Usama Nadeem", email = "usamanadeem321@gmail.com", role = "ctb"))
+Maintainer: Usama Nadeem <usamanadeem321@gmail.com>
+Description: This package has two functions: finding euclidean distance and Djikstra's algo implementation
+License: NA
 import: testthat
