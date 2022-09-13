@@ -30,4 +30,3 @@ else{
   stop("input type is not correct")
 }
 }
-euclidean("67", 206)
